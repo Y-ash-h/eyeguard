@@ -44,7 +44,7 @@ class EyeStrainMonitor:
             print("Error: Could not load face detection model")
 
         self.setup_gui()
-
+#hello shivang
     def setup_gui(self):
         self.root = tk.Tk()
         self.root.title("Eye Strain Monitor")
